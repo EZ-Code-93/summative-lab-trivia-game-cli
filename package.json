@@ -1,0 +1,26 @@
+{
+  "name": "summative-lab-trivia-game-cli",
+  "version": "1.0.0",
+  "description": "repository for flatiron schools mod 16 summative lab trivia game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EZ-Code-93/summative-lab-trivia-game-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EZ-Code-93/summative-lab-trivia-game-cli/issues"
+  },
+  "homepage": "https://github.com/EZ-Code-93/summative-lab-trivia-game-cli#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.5.1",
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0"
+  }
+}
